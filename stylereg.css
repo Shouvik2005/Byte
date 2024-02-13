@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(125, 139, 155);
+}
+header{
+    text-align:center;
+}
+h1{
+    font-size: 30px;
+    text-align:center;
+    font-family: arial;
+}
+main{
+    font-size: 20px;
+    font-family: arial;
+    padding-block: 5px;
+    padding-inline: 5px;
+    background-color: white;
+    border:2px solid black;
+}
+footer{
+    font-size: 20px;
+    font-family: arial;
+    text-align: center;
+}
